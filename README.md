@@ -83,8 +83,8 @@ Experiment results:
 - `defense_comparison.png`
 
 Screenshots:
-- `screenshots-defense-experiments/`
-- `screenshots-replay-attack/`
+- `[Defense experiment screenshots](./screenshots-defense-experiments)`
+- `[Replay attack screenshots](./screenshots-replay-attack)`
 
 ## Key Takeaways
 - TLS protects communication channels but does not prevent replay attacks.
