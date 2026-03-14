@@ -71,18 +71,18 @@ The results show that no single defense covers all attack types, but combining a
 
 ## Files
 
-Core scripts:
-- `publisher_defended.py`
-- `subscriber_defended.py`
-- `replay_attacker.py`
-- `defense_tester.py`
+### Core Scripts
+- [publisher_defended.py](./publisher_defended.py)
+- [subscriber_defended.py](./subscriber_defended.py)
+- [replay_attacker.py](./replay_attacker.py)
+- [defense_tester.py](./defense_tester.py)
 
-Experiment results:
-- `experiment_results.json`
-- `captured_messages.json`
-- `defense_comparison.png`
+### Experiment Results
+- [experiment_results.json](./experiment_results.json)
+- [captured_messages.json](./captured_messages.json)
+- [defense_comparison.png](./defense_comparison.png)
 
-Screenshots:
+### Screenshots:
 - [Defense experiment screenshots](./screenshots-defense-experiments)
 - [Replay attack screenshots](./screenshots-replay-attack)
 
